@@ -41,7 +41,7 @@
 
 #### Bug Fixes
 
-* Fix files excluded from coverage for RequireJS
+* Fix files excluded from coverage for RequireJS (@davestevens)
 * Fix double teaspoon hook (#332)
 
 
